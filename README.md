@@ -1,5 +1,4 @@
 # Metakart > Decentralized E-Commerce platform on Ethereum Blockchain.         
-<img src="https://www.canva.com/design/DAF28lQJi-4/qq9bH1sfd8MZ9OZUmk53Cw/view?utm_content=DAF28lQJi-4&utm_campaign=designshare&utm_medium=link&utm_source=editor" width="400px" height="300px"/>
 
 ## Check Working here: https://drive.google.com/file/d/1zFfNzf-NpwCfR46peySKhbg22sdeW8SU/view?usp=drive_link
 
